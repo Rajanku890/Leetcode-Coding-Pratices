@@ -14,5 +14,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0077-combinations) |
+## Array
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
