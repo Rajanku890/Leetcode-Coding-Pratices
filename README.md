@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0097-interleaving-string) |
+| [0509-fibonacci-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0067-add-binary) |
+| [0509-fibonacci-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -37,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
