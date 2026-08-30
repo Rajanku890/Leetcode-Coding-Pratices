@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0040-combination-sum-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
