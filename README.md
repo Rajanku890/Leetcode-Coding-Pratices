@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0067-add-binary) |
+| [0441-arranging-coins](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
