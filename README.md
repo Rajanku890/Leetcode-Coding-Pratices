@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0040-combination-sum-ii) |
 ## Database
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0441-arranging-coins) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
