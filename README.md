@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0740-delete-and-earn) |
 ## Backtracking
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0040-combination-sum-ii) |
 | [0198-house-robber](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0213-house-robber-ii) |
+| [0740-delete-and-earn](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0740-delete-and-earn) |
 ## Database
 |  |
 | ------- |
@@ -64,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0740-delete-and-earn](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0740-delete-and-earn) |
 <!---LeetCode Topics End-->
