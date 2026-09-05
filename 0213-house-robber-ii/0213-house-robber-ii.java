@@ -1,35 +1,40 @@
 class Solution {
 
+    int[][] dp = new int[102][2];
+
+    int fun(int i, int[] nums, int f) {
+
+        if (i == nums.length - 1) {
+            if (f == 1)
+                return 0;
+            return nums[i];
+        }
+
+        if (i >= nums.length)
+            return 0;
+
+        if (dp[i][f] != -1)
+            return dp[i][f];
+
+        int nf = f;
+
+        if (i == 0) {
+            nf = 1;
+        }
+
+        int rob = nums[i] + fun(i + 2, nums, nf);
+        int notRob = fun(i + 1, nums, f);
+
+        return dp[i][f] = Math.max(rob, notRob);
+    }
+
     public int rob(int[] nums) {
 
-        int n = nums.length;
-
-        if (n == 1) {
-            return nums[0];
-        }
-        int case1 = robLinear(nums, 0, n - 2);
-
-        int case2 = robLinear(nums, 1, n - 1);
-
-        return Math.max(case1, case2);
-    }
-
-    private int robLinear(int[] nums, int start, int end) {
-
-        int prev2 = 0;
-        int prev1 = 0;
-
-        for (int i = start; i <= end; i++) {
-
-            int rob = nums[i] + prev2;
-            int skip = prev1;
-
-            int current = Math.max(rob, skip);
-
-            prev2 = prev1;
-            prev1 = current;
+        for (int i = 0; i < 102; i++) {
+            Arrays.fill(dp[i], -1);
         }
 
-        return prev1;
+        return fun(0, nums, 0);
     }
 }
+
