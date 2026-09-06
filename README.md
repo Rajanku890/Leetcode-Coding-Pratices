@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0067-add-binary) |
 | [0441-arranging-coins](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0509-fibonacci-number) |
