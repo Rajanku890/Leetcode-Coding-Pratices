@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0509-fibonacci-number) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0040-combination-sum-ii) |
+| [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0740-delete-and-earn) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -71,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
 | [0740-delete-and-earn](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0740-delete-and-earn) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
@@ -85,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
