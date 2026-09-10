@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0097-interleaving-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
@@ -100,4 +102,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
