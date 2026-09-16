@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
+| [1143-longest-common-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0746-min-cost-climbing-stairs) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1043-partition-array-for-maximum-sum) |
+| [1143-longest-common-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1143-longest-common-subsequence) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0102-binary-tree-level-order-traversal) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
