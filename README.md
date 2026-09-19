@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0516-longest-palindromic-subsequence) |
 | [0740-delete-and-earn](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0740-delete-and-earn) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0300-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0746-min-cost-climbing-stairs) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1043-partition-array-for-maximum-sum) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0441-arranging-coins) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Hash Table
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
