@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0063-unique-paths-ii) |
 | [0097-interleaving-string](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0040-combination-sum-ii) |
+| [0063-unique-paths-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0063-unique-paths-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
