@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0516-longest-palindromic-subsequence) |
 | [0740-delete-and-earn](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0746-min-cost-climbing-stairs) |
+| [1035-uncrossed-lines](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1143-longest-common-subsequence) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0300-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0746-min-cost-climbing-stairs) |
+| [1035-uncrossed-lines](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1043-partition-array-for-maximum-sum) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Database
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1035-uncrossed-lines](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
