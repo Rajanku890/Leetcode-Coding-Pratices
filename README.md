@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0077-combinations) |
+| [0980-unique-paths-iii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0980-unique-paths-iii) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0300-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0746-min-cost-climbing-stairs) |
+| [0980-unique-paths-iii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0980-unique-paths-iii) |
 | [1035-uncrossed-lines](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1043-partition-array-for-maximum-sum) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0067-add-binary) |
+| [0980-unique-paths-iii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0980-unique-paths-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -172,4 +175,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0063-unique-paths-ii) |
+| [0980-unique-paths-iii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
