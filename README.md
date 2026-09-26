@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0746-min-cost-climbing-stairs) |
 | [1035-uncrossed-lines](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1035-uncrossed-lines) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0746-min-cost-climbing-stairs) |
 | [0980-unique-paths-iii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0980-unique-paths-iii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0646-maximum-length-of-pair-chain) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Counting
 |  |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0646-maximum-length-of-pair-chain) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0980-unique-paths-iii) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
