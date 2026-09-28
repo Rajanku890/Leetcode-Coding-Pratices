@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0583-delete-operation-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0746-min-cost-climbing-stairs) |
 | [1035-uncrossed-lines](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1143-longest-common-subsequence) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Backtracking
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0980-unique-paths-iii) |
 | [1035-uncrossed-lines](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1048-longest-string-chain) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Database
 |  |
@@ -110,17 +113,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
 | [0740-delete-and-earn](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0740-delete-and-earn) |
+| [1048-longest-string-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1048-longest-string-chain) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1048-longest-string-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1048-longest-string-chain) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1048-longest-string-chain) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Counting
 |  |
