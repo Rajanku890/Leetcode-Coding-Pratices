@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1143-longest-common-subsequence) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/1048-longest-string-chain) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Database
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0063-unique-paths-ii) |
 | [0980-unique-paths-iii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0980-unique-paths-iii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -207,4 +210,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0022-generate-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
