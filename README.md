@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0646-maximum-length-of-pair-chain) |
@@ -211,4 +212,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
