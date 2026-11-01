@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0172-factorial-trailing-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0441-arranging-coins) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Rajanku890/Leetcode-Coding-Pratices/tree/master/0509-fibonacci-number) |
 ## Binary Search
